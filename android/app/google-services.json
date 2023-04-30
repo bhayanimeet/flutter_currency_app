@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "471877302836",
+    "project_id": "currency-converter-app-8ed83",
+    "storage_bucket": "currency-converter-app-8ed83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471877302836:android:924df0d75547ff106d6861",
+        "android_client_info": {
+          "package_name": "com.meetb31.currency_converter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471877302836-7k79j8g2ndn2725vnv3pdiqngc8qorbr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meetb31.currency_converter",
+            "certificate_hash": "d8d2434a9cb266fb47f5bfc315933d3cef289637"
+          }
+        },
+        {
+          "client_id": "471877302836-scl5ul4n91fkhj2aqlal1mprglsp62lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFtXCw4xUVxFE0PvghnM7dxeYjWYc2Vp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471877302836-scl5ul4n91fkhj2aqlal1mprglsp62lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
