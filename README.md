@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/121868259/235371304-69c642f3-8476-4c4e
 <img src="https://user-images.githubusercontent.com/121868259/235367684-5daaee21-13df-4f90-9364-bc1e8db598ef.jpeg" width="220px">
 <img align="left" src="https://user-images.githubusercontent.com/121868259/235367691-80490e40-9b75-4c70-b2de-78a5b786d0e1.jpeg" width="220px">
 <img align="left" src="https://user-images.githubusercontent.com/121868259/235367698-a974bf93-4be4-4ec2-bd49-da4e587c45cf.jpeg" width="220px">
-<img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40">
 
 <h1 align="center">Made with ❤️ in India.</h1>
 <h3 align="center">You can show some respect by starring 🌟 the repository!</h3>
