@@ -12,6 +12,7 @@
 - Advance UI
 - Light and Dark theme
 - GetX State Management
+- Ad Integration
 - Currency conversion
 - Firebase Authentication
 - API Calling
